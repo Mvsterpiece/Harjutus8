@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamelist>
+  <game>
+    <title lang="en">Hearthstone</title>
+    <price>Free</price>
+    <platforms>
+      <platform>PC</platform>
+      <platform>IOS</platform>
+    </platforms>
+  </game>
+
+  <game>
+    <title lang="en">Grand Theft Auto V</title>
+    <price>60$</price>
+    <platforms>
+      <platform>PC</platform>
+      <platform>PS4</platform>
+    </platforms>
+  </game>
+
+  <game>
+    <title lang="en">Valheim</title>
+    <price>15$</price>
+    <platforms>
+      <platform>PC</platform>
+    </platforms>
+  </game>
+
+</gamelist>
